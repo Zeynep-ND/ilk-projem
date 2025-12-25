@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <title>ÖZGEÇMİŞİM</title>
+</head>
+
+<body>
+<img src="./aaaaaaaa.jpg" height="200" /> 
+<h1>Zeynep Nur Dilek</h1>
+<h2>Web Geliştiricisiyim</h2>
+<h3>18 Yaşındayım/Uşakta yaşıyorum</h3>
+<hr/>
+<h3>Okuduğum okullar:</h3>
+<ul>
+    <li>Lise: İzzettin Çalışlar Anadolu Lisesi</li>
+    <li>Üniversite: Uşak Uzaktan Eğitim Bİlgisayar programcılığı</li>
+</ul>
+<hr/>
+<h3>İş Deneyimlerim:</h3>
+Muhasebe<br/>
+Kullanabildiğim programlar ise sırasıyla:
+<ol>
+    <li>Microsoft Excel</li>
+    <li>Microsoft Word</li>
+    <li>GMS</li>
+    <li>HTML 5</li>
+</ol>
+<hr/>
+<h3>Hobilerim:</h3>
+<ul>
+    <li>Kitap okumak</li>
+    <li>Okçuluk</li>
+    <li>Boyama yapmak</li>
+    <li>Mandala oynamak</li>
+    <li>Yemek yapmak</li>
+</ul>
+<hr/>
+<h3>İletişim Bilgilerim:</h3>
+Adres: örnek mahallesi 4. örnek sok. no:8 <br/>
+Telefon:0665 222 11 42 <br/>
+G-mail: web-geliştiricisi64@gmail.com
+</body>
+
+</html>
